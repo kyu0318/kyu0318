@@ -1,9 +1,13 @@
-# ☁️ 안녕하세요! 인프라와 보안에 관심 많은 클라우드 엔지니어입니다.
-
 <div align="center">
   <!-- 상단 다이나믹 헤더 이미지 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Security%20Engineer&fontSize=70" />
 </div>
+
+# 🛡️ 탄탄한 인프라 위에 견고한 보안을 설계합니다.
+
+- 서버 및 클라우드 인프라 운영 경험을 든든한 기반으로 삼아 성장해 나가는 **보안 엔지니어**입니다.
+- 네트워크 통신 구조(TCP/IP, 서브네팅, 라우팅)와 서버 가상화 환경에 대한 깊은 이해를 바탕으로, 시스템의 취약점을 방어하고 안전한 아키텍처를 구성하는 데 관심이 많습니다.
+- 현재 학점은행제를 통한 학위 취득 및 정보처리기사 자격증을 준비하며 꾸준히 기본기를 다지고 있습니다.
 
 ## 👨‍💻 About Me
 - IT 인프라와 네트워크 보안을 깊이 있게 다루는 1년 차 클라우드 엔지니어입니다.
