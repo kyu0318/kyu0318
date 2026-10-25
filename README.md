@@ -13,13 +13,13 @@
 - **팀 역할:** Admin 관리자 페이지 개발은 다른 팀원 담당
 - **사용 기술:** Java·Spring Boot·Spring Data JPA·MySQL·HTML/CSS·JavaScript·Thymeleaf·Kakao Maps API / Ubuntu·Docker·Python·Cron
 
-[Service 코드·구현 설명](https://github.com/kyu0318/service) · [인프라 구축 기록](https://app.notion.com/p/1-Docker-Host-3c910d3ee8d380e780f7c6db82d112a8) · [Admin 원본 — 다른 팀원 담당](https://github.com/ehdgus4026-tech/admin)
+[Service 코드·구현 설명](https://github.com/kyu0318/service) · [인프라 구축 기록](https://road-bloom-792.notion.site/1-Docker-Host-3c910d3ee8d380e780f7c6db82d112a8) · [Admin 원본 — 다른 팀원 담당](https://github.com/ehdgus4026-tech/admin)
 
 ### 2차 프로젝트 — 인프라 구축 · 진행 중
 
 네트워크·서버 환경의 구축 과정과 점검 내용을 기록 중인 팀 프로젝트
 
-[프로젝트 기록](https://app.notion.com/p/40010d3ee8d38028a22fed0c6ab2b6c9) · [팀 작업일지 · 로그인 필요](https://app.notion.com/p/3ff0ca1d4aae80eead72eea55c26f015)
+[프로젝트 기록](https://road-bloom-792.notion.site/2-40010d3ee8d38028a22fed0c6ab2b6c9) · [팀 작업일지 · 로그인 필요](https://app.notion.com/p/3ff0ca1d4aae80eead72eea55c26f015)
 
 ## 기술스택
 
@@ -39,7 +39,7 @@ Spring Boot 버전은 저장소 POM 선언 기준. 빌드·실행 성공 여부�
 ## 관련 실습·문서
 
 - [포트폴리오 허브](https://road-bloom-792.notion.site/40410d3ee8d3810a92cbc42c2bf94ee6): 프로젝트·실습·학습 기록의 통합 진입점
-- [인프라 실습 기록](https://app.notion.com/p/3e110d3ee8d38062a09bea4b5cec09b6): 네트워크·서버·접근 권한 설정 실습
-- [인프라 학습 정리](https://app.notion.com/p/3e110d3ee8d38038b8c8faeef5b351e3): 개념·작동 흐름·면접 대비 정리
+- [인프라 실습 기록](https://road-bloom-792.notion.site/3e110d3ee8d38062a09bea4b5cec09b6): 네트워크·서버·접근 권한 설정 실습
+- [인프라 학습 정리](https://road-bloom-792.notion.site/3e110d3ee8d38038b8c8faeef5b351e3): 개념·작동 흐름·면접 대비 정리
 
 프로젝트 구현, 교육 실습, 학습 기록을 구분해 정리
