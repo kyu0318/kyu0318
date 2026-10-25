@@ -38,7 +38,7 @@ Spring Boot 버전은 저장소 POM 선언 기준. 빌드·실행 성공 여부�
 
 ## 관련 실습·문서
 
-- [포트폴리오 허브](https://app.notion.com/p/40410d3ee8d3810a92cbc42c2bf94ee6): 프로젝트·실습·학습 기록의 통합 진입점
+- [포트폴리오 허브](https://road-bloom-792.notion.site/40410d3ee8d3810a92cbc42c2bf94ee6): 프로젝트·실습·학습 기록의 통합 진입점
 - [인프라 실습 기록](https://app.notion.com/p/3e110d3ee8d38062a09bea4b5cec09b6): 네트워크·서버·접근 권한 설정 실습
 - [인프라 학습 정리](https://app.notion.com/p/3e110d3ee8d38038b8c8faeef5b351e3): 개념·작동 흐름·면접 대비 정리
 
