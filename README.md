@@ -8,12 +8,11 @@
 
 재난 유형별 대피소를 지도에서 찾고, 현재 지도 영역과 위치를 기준으로 정보를 확인하는 웹 서비스
 
-- **Service 개발 전담:** 사용자 화면, Kakao Maps 연동, 대피소 조회 API와 기존 재난 유형 탭 조회
-- **인프라 담당 기록:** Ubuntu Docker Host 구성과 해당 호스트의 DB 연결, Python 데이터 처리용 컨테이너 실행과 Cron 설정
-- **팀 역할:** Admin의 회원·대피소·게시판 관리와 수집·적재 연계는 다른 팀원 담당
+- **전체 구성:** 지도·대피소 조회 Service / 회원·대피소·게시판 관리 Admin / 데이터 처리용 Docker Host
+- **개인 참여 범위:** Service 개발 전담, Docker Host 구성·DB 연결·Python 작업 컨테이너·Cron 설정
 - **사용 기술:** Java·Spring Boot·Spring Data JPA·MySQL·HTML/CSS·JavaScript·Thymeleaf·Kakao Maps API / Ubuntu·Docker·Python·Cron
 
-[Service 코드·구현 설명](https://github.com/kyu0318/service) · [인프라 구축 기록](https://road-bloom-792.notion.site/1-Docker-Host-3c910d3ee8d380e780f7c6db82d112a8) · [Admin 소스 · 팀원 개발](https://github.com/kyu0318/admin-main) · [Admin 원본](https://github.com/ehdgus4026-tech/admin)
+[Service 코드·구현 설명](https://github.com/kyu0318/service) · [인프라 구축 기록](https://road-bloom-792.notion.site/1-Docker-Host-3c910d3ee8d380e780f7c6db82d112a8) · [Admin 코드](https://github.com/kyu0318/admin-main) · [Admin 원본](https://github.com/ehdgus4026-tech/admin)
 
 ### 2차 프로젝트 — 인프라 구축 · 진행 중
 
