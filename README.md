@@ -10,10 +10,10 @@
 
 - **Service 개발 전담:** 사용자 화면, Kakao Maps 연동, 대피소 조회 API와 기존 재난 유형 탭 조회
 - **인프라 담당 기록:** Ubuntu Docker Host 구성과 해당 호스트의 DB 연결, Python 데이터 처리용 컨테이너 실행과 Cron 설정
-- **팀 역할:** Admin 관리자 페이지 개발은 다른 팀원 담당
+- **팀 역할:** Admin의 회원·대피소·게시판 관리와 수집·적재 연계는 다른 팀원 담당
 - **사용 기술:** Java·Spring Boot·Spring Data JPA·MySQL·HTML/CSS·JavaScript·Thymeleaf·Kakao Maps API / Ubuntu·Docker·Python·Cron
 
-[Service 코드·구현 설명](https://github.com/kyu0318/service) · [인프라 구축 기록](https://road-bloom-792.notion.site/1-Docker-Host-3c910d3ee8d380e780f7c6db82d112a8) · [Admin 원본 — 다른 팀원 담당](https://github.com/ehdgus4026-tech/admin)
+[Service 코드·구현 설명](https://github.com/kyu0318/service) · [인프라 구축 기록](https://road-bloom-792.notion.site/1-Docker-Host-3c910d3ee8d380e780f7c6db82d112a8) · [Admin 소스 · 팀원 개발](https://github.com/kyu0318/admin-main) · [Admin 원본](https://github.com/ehdgus4026-tech/admin)
 
 ### 2차 프로젝트 — 인프라 구축 · 진행 중
 
