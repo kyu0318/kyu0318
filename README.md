@@ -9,10 +9,10 @@
 재난 유형별 대피소를 지도에서 찾고, 현재 지도 영역과 위치를 기준으로 정보를 확인하는 웹 서비스
 
 - **전체 구성:** 지도·대피소 조회 Service / 회원·대피소·게시판 관리 Admin / 데이터 처리용 Docker Host
-- **개인 참여 범위:** Service 개발 전담, Docker Host 구성·DB 연결·Python 작업 컨테이너·Cron 설정
+- **개인 참여 범위:** Service 개발 전담, Docker Host 구성·DB 연결·Python 작업 컨테이너·호스트 Cron 예약 실행
 - **사용 기술:** Java·Spring Boot·Spring Data JPA·MySQL·HTML/CSS·JavaScript·Thymeleaf·Kakao Maps API / Ubuntu·Docker·Python·Cron
 
-[Service 코드·구현 설명](https://github.com/kyu0318/service) · [인프라 구축 기록](https://road-bloom-792.notion.site/1-Docker-Host-3c910d3ee8d380e780f7c6db82d112a8) · [Admin 코드](https://github.com/kyu0318/admin-main) · [Admin 원본](https://github.com/ehdgus4026-tech/admin)
+[프로젝트 전체 기록](https://road-bloom-792.notion.site/1-3e110d3ee8d380f89984c41d0ea02594) · [Service 코드·구현 설명](https://github.com/kyu0318/service) · [인프라 구축 기록](https://road-bloom-792.notion.site/1-Docker-Host-3c910d3ee8d380e780f7c6db82d112a8) · [Admin 코드](https://github.com/kyu0318/admin-main) · [Admin 원본](https://github.com/ehdgus4026-tech/admin)
 
 ### 2차 프로젝트 — 인프라 구축 · 진행 중
 
@@ -28,7 +28,7 @@
 | --- | --- | --- |
 | Application & Data | Java 17, Spring Boot 4.1.0, Spring MVC, Spring Data JPA, Hibernate, MySQL, Maven | 1차 프로젝트 Service API·엔티티·조회 처리, 빌드 설정 |
 | Frontend | HTML, CSS, JavaScript, Thymeleaf, Kakao Maps API | 사용자 화면, 지도·마커·장소 검색, 대피소 목록 연동 |
-| Infrastructure | Ubuntu, Docker, Python, Cron | Docker Host 구성, DB 연결, 데이터 처리 컨테이너·예약 작업 설정 기록 |
+| Infrastructure | Ubuntu, Docker, Python, Cron | Docker Host 구성, DB 연결, 데이터 처리 컨테이너·호스트 Cron 예약 작업 설정 기록 |
 | Network & Virtualization | VMware, VyOS, Rocky Linux, Windows, DNS·DHCP, VPN, Active Directory | 가상 환경의 네트워크·서버·접근 권한 설정 실습 |
 | Cloud · 학습 기록 | AWS VPC·EC2·ALB 등 | AWS 복합 실습 문서의 구성 절차·학습 기록 |
 | Tools | Git, GitHub | 소스·문서 버전 관리 |
